@@ -12,7 +12,7 @@
       <th>Stars</th>
     </tr>
     <tr height="50">
-      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/badge/4.5 MB-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/badge/4.50 MB-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
       <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/badge/1.4.39-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
       <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=%20&labelColor=white&color=grey" style="height:25px;"/></a></td>
       <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/stargazers"><img src="https://img.shields.io/github/stars/BornomalaSoftware/NID_Portal_Bangladesh?style=for-the-badge&label=%20&color=grey" style="height:25px;"/></a></td>
