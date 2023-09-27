@@ -16,7 +16,7 @@
       <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/stargazers"><img src="https://img.shields.io/github/stars/BornomalaSoftware/NID_Portal_Bangladesh?style=for-the-badge&label=%20&labelColor=black&color=white" style="height:25px;"/></a></td>
     </tr>
     <tr height="25">
-      <td align="center"><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-1.4.39.apk"><img src="https://img.shields.io/badge/v1.4.39+18-grey?style=for-the-badge&labelColor=black&color=white" style="height:25px"/></a></td>
+      <td align="center"><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-1.4.39.apk">v4.1.36</a></td>
       <td colspan="4" align="center" height="50"><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-1.4.39.apk"><img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/></a></td>
     </tr>
   </table>
