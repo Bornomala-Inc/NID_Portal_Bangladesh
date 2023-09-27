@@ -29,5 +29,18 @@
 ## Screenshot
 ![feature-graphic](https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/e91ecf8e-c917-4cde-b87b-88eb7845084c)
 
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/a684c630-638f-4ed7-b5e9-35c9f3065a3d" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/5fb13b66-b609-4cdc-820c-1f0ded1dedb6" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/70d80abc-c280-488a-98b8-d1e91ad8f348" width="350"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/253d99d3-d670-4635-926e-00343c50f7c1" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/a9177b73-7abe-41e7-b7b2-ebff18c5baac" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/68845f2d-622b-4b6c-8b82-edc4a15a65bb" width="350"></td>
+  </tr>
+</table>
+
 ## About this app
 
