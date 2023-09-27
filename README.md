@@ -44,3 +44,15 @@
 
 ## About this app
 
+NID Portal is designed to provide citizens with a convenient and secure platform for managing their national identity card-related activities. With NID Portal, you can access a range of features and services that simplify the process of obtaining, updating, and managing your National Identity Card (NID) information.
+
+Key Features:
+- New Voter Registration
+- Manage NID Information
+- Smart Card Information
+- Update Information
+- Apply for Re-issuance of Lost Card
+- Online Application Tracking
+- Voter Area Details
+
+NID Portal is committed to providing citizens of Bangladesh with a technologically advanced and user-centric platform for managing their national identity cards. Download NID Portal today and experience the convenience of managing your voter ID card online, empowering you to shape the future of Bangladesh.
