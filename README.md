@@ -3,19 +3,21 @@
 <div>
   <table width="100%">
     <tr>
-      <td  width="100%" rowspan="4"><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img align="center" src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/b6ab465b-a221-450f-b4b8-aa0cf670e6c5" style="height:200px;width:200px;text-align:center"></a></td>
+      <td rowspan="4"><img align="center" src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/b6ab465b-a221-450f-b4b8-aa0cf670e6c5" style="height:200px;width:200px;text-align:center"/></td>
     </tr>
     <tr height="30">
-      <th width="25%">Version</th>
-      <th width="25%">Downloads</th>
-      <th width="25%">Stars</th>
+      <th>App Size</th>
+      <th>Version</th>
+      <th>Downloads</th>
+      <th>Stars</th>
     </tr>
-    <tr>
-      <td><a href=""><img src="https://img.shields.io/badge/1.4.39-grey?style=for-the-badge&labelColor=white&color=black" style="height:25px"/></a></td>
-      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=%20&labelColor=white&color=black" style="height:25px;"/></a></td>
-      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/stargazers"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=%20&labelColor=white&color=black" style="height:25px;"/></a></td>
+    <tr height="50">
+      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/badge/4.5 MB-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/badge/1.4.39-grey?style=for-the-badge&labelColor=white&color=grey" style="height:25px"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://img.shields.io/github/downloads/BornomalaSoftware/NID_Portal_Bangladesh/total?style=for-the-badge&label=%20&labelColor=white&color=grey" style="height:25px;"/></a></td>
+      <td><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/stargazers"><img src="https://img.shields.io/github/stars/BornomalaSoftware/NID_Portal_Bangladesh?style=for-the-badge&label=%20&color=grey" style="height:25px;"/></a></td>
     </tr>
-    <tr>
+    <tr height="80">
       <td colspan="4" align="center" height="50"><a href="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/releases/download/v1.4.39%2B18/NID.Portal-bornomala.nid-1.4.39-18.apk"><img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/></a></td>
     </tr>
     <tr>
