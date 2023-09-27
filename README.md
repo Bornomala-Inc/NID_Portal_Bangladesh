@@ -6,7 +6,7 @@
       <td rowspan="4"><img align="center" src="https://github.com/BornomalaSoftware/NID_Portal_Bangladesh/assets/62181222/b6ab465b-a221-450f-b4b8-aa0cf670e6c5" style="height:200px;width:200px;text-align:center"/></td>
     </tr>
     <tr height="30">
-      <th>App Size</th>
+      <th>Size</th>
       <th>Version</th>
       <th>Downloads</th>
       <th>Stars</th>
